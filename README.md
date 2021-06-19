@@ -1,0 +1,2 @@
+# Dictionary-TRIE-Data-Structure-
+The current existing dictionaries available on internet only tells the meaning of the word entered by a user, but we will try to make an efficient dictionary which will not only tell the meaning of the word but if a user enter a word which is misspelled then our dictionary will show the related words. The Dictionary is implemented by using TRIE Data Structure. Language: C++ and Python (web scrapping).
